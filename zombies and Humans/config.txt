@@ -1,0 +1,17 @@
+[Spawn Humans]
+2
+
+[Humans health]
+100
+
+[Humans attack damage]
+25
+
+[Spawn Zombies]
+10
+
+[Zombies health]
+100
+
+[Zombies attack damage]
+10
